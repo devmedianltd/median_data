@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "active": true,
+  "message": "This is Demo. Please enter the PIN provided",
+  "pin_sha256": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",   
+  "allow_offline_days": 7,          
+  "grace_days": 3                  
+}
