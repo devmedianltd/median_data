@@ -14,5 +14,13 @@
     "address": "Dublin, Ireland",
     "currency": "EUR"
     "notes": "Thank you for you business."
+  },
+  {
+    "name": "Tory Consultancy",
+    "email": "musthaqshamail@gmail.com",
+    "phone": "+947 75572 339",
+    "address": "Colombo, Sri Lanka",
+    "currency": "LKR"
+    "notes": "Thank you for you business."
   }
 ]
