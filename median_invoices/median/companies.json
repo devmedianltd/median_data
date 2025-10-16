@@ -12,7 +12,7 @@
     "email": "billing@crownmotors.ie",
     "phone": "+353 8947 83278",
     "address": "Dublin, Ireland",
-    "currency": "EUR"
+    "currency": "EUR",
     "notes": "Thank you for you business."
   },
   {
@@ -20,7 +20,7 @@
     "email": "musthaqshamail@gmail.com",
     "phone": "+947 75572 339",
     "address": "Colombo, Sri Lanka",
-    "currency": "LKR"
+    "currency": "LKR",
     "notes": "Thank you for you business."
   }
 ]
