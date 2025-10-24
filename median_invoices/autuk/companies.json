@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Demo Travels",
+    "email": "accounts@demotravels.com",
+    "phone": "+1 000 111 2222",
+    "address": "Demo City, USA",
+    "currency": "USD",
+    "notes": "Thank you for using Median Invoice Maker (Demo)."
+  },
+  {
+    "name": "Sample Motors",
+    "email": "billing@samplemotors.com",
+    "phone": "+44 0000 123456",
+    "address": "London, UK",
+    "currency": "GBP",
+    "notes": "This is demo data only."
+  },
+  {
+    "name": "Test Solutions",
+    "email": "finance@testsolutions.io",
+    "phone": "+61 400 000 000",
+    "address": "Sydney, Australia",
+    "currency": "AUD",
+    "notes": "Demo invoice data for preview purposes."
+  }
+]
