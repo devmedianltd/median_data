@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "active": false,
+  "message": "Demo active. Enter your access PIN.",
+  "pin_sha256": "9980879b858b0898dbe777d3b76a92dcbd91dce248693df4eadb5dd8e08866b2",   
+  "expires_at": "2025-12-31T23:59:59Z",
+  "allow_offline_days": 7,          
+  "grace_days": 3                  
+}
